@@ -7,13 +7,11 @@ It is also meant to ensure that we both understand what constitutes academic int
 
 Some notes on academic integrity:
 
-```
-Just as you can do a google search for code online, it is trivial for us to do the same.
-To check if student's homeworks have logical (not syntactic) overlap, we use automated tools.
-We have caught numerous people cheating in the past in this way.
-This is the quickest and surest way to fail the class.
-If you feel pressured about an assignment, please come see me instead of cheating.
-```
+> Just as you can do a google search for code online, it is trivial for us to do the same.
+> To check if student's homeworks have logical (not syntactic) overlap, we use automated tools.
+> We have caught numerous people cheating in the past in this way.
+> This is the quickest and surest way to fail the class.
+> If you feel pressured about an assignment, please come see me instead of cheating.
 
 Please read the CS department's academic honesty policies in `cs_integrity.md`.
 
